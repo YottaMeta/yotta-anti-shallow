@@ -131,6 +131,11 @@ Same family in the YottaMeta skill matrix (quality & engineering): [yotta-code-q
 
 Inside this project run: `python tools/validate-skill.py yotta-anti-shallow`.
 
+## References
+
+- references/faq.md
+- references/walkthroughs.md
+
 ## License
 
 MIT © YottaMeta — see [LICENSE](./LICENSE).

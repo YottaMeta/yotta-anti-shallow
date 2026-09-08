@@ -152,6 +152,11 @@ bash install.sh --list           # 列出智能体 -> 默认目录
 
 本项目内运行：`python tools/validate-skill.py yotta-anti-shallow`。
 
+## 参考文档
+
+- references/faq.md
+- references/walkthroughs.md
+
 ## 许可证
 
 MIT © YottaMeta —— 详见 [LICENSE](./LICENSE)。
